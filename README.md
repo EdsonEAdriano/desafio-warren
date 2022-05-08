@@ -4,6 +4,8 @@ Olá,
 
 Este projeto foi usado o NodeJS e testado no Visual Studio Code;
 
+Faça o donwload da pasta e abra no editor de código;
+
 No projeto, há os três desafios propostos em documentos JavaScript (question01.js, question02.js, question03.js);
 
 Para executar cada desafio, você precisa abrir o terminal do Visual Studio Code(Cntrl + ') e inserir a seguinte linha:
